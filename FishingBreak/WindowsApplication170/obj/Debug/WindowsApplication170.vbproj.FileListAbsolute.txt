@@ -1,0 +1,24 @@
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.exe.config
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.exe
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.pdb
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.xml
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.Form1.resources
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.Resources.resources
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.vbproj.GenerateResource.Cache
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.exe
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.xml
+c:\users\garry zhuang\documents\visual studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.pdb
+D:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.exe.config
+D:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.exe
+D:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.xml
+D:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.pdb
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.exe.config
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.exe
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.xml
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.pdb
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.exe
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.pdb
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\bin\Debug\WindowsApplication170.xml
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.Form1.resources
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.Resources.resources
+C:\Users\Garry Zhuang\Desktop\PROJECTS\WindowsApplication170\WindowsApplication170\obj\Debug\WindowsApplication170.vbproj.GenerateResource.Cache
